@@ -8,3 +8,5 @@ librerias usadas y no funcionaron para este ejercicio por no tener instalado Chr
 
 Libreria funcional para este ejercicio (app4.py)
   * pip install xhtml2pdf requests
+
+nota: no reconoce hojas de estilo (CSS) por CDN
